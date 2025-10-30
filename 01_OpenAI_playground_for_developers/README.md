@@ -5,10 +5,10 @@
 Welcome! This guide will transform you from a beginner into a confident AI engineer with a fully configured development environment. Whether you're building your first API or collaborating on complex AI projects, these tools and workflows are your foundation.
 
 By the end of this guide, you'll have:
-- ✅ A professional development environment set up on your machine
-- ✅ Secure GitHub access and collaborative Git workflows mastered
-- ✅ An AI-powered coding environment ready for production
-- ✅ Your first API application running locally
+-  A professional development environment set up on your machine
+-  Secure GitHub access and collaborative Git workflows mastered
+-  An AI-powered coding environment ready for production
+-  Your first API application running locally
 
 Let's build something great together!
 
@@ -157,10 +157,10 @@ git clone git@github.com:username/repo.git
 
 Before moving on, verify you can:
 
-- [ ] ✅ Open Terminal and run `brew --version` (shows Homebrew version)
-- [ ] ✅ Run `git --version` (confirms Git is installed)
-- [ ] ✅ Run `python3 --version` (confirms Python is installed)
-- [ ] ✅ Run `ssh -T git@github.com` (should say "Hi [username]! You've successfully authenticated...")
+-  Open Terminal and run `brew --version` (shows Homebrew version)
+-  Run `git --version` (confirms Git is installed)
+-  Run `python3 --version` (confirms Python is installed)
+-  Run `ssh -T git@github.com` (should say "Hi [username]! You've successfully authenticated...")
 
 **If any of these fail**, go back and complete that step. Your foundation needs to be solid!
 
@@ -284,12 +284,12 @@ git push origin --delete release/1.2.0
 
 Before moving on, verify you can:
 
-- [ ] ✅ Create a `develop` branch from `main`
-- [ ] ✅ Create a release branch from `develop`
-- [ ] ✅ Merge a release branch into `main` using `--no-ff`
-- [ ] ✅ Tag a release with `git tag -a`
-- [ ] ✅ Merge release changes back into `develop`
-- [ ] ✅ Delete a branch locally and remotely
+- ✅ Create a `develop` branch from `main`
+- Create a release branch from `develop`
+- Merge a release branch into `main` using `--no-ff`
+- Tag a release with `git tag -a`
+- Merge release changes back into `develop`
+- Delete a branch locally and remotely
 
 **Pro Tip:** Practice this workflow in a test repository first. Muscle memory for GitFlow takes time, but it becomes second nature!
 
@@ -346,11 +346,11 @@ Visit the comprehensive setup instructions: [Interactive Dev Environment Repo](h
 
 Before moving on, verify you can:
 
-- [ ] ✅ Open Cursor/VS Code and see the Extensions panel
-- [ ] ✅ Python extension is installed and shows as "Enabled"
-- [ ] ✅ Jupyter extension is installed and shows as "Enabled"
-- [ ] ✅ Open a `.py` file and see syntax highlighting
-- [ ] ✅ Open a `.ipynb` file and see Jupyter interface
+- Open Cursor/VS Code and see the Extensions panel
+- Python extension is installed and shows as "Enabled"
+- Jupyter extension is installed and shows as "Enabled"
+- Open a `.py` file and see syntax highlighting
+- Open a `.ipynb` file and see Jupyter interface
 
 **If extensions aren't working**, try restarting your IDE. Sometimes extensions need a fresh start to activate properly.
 
