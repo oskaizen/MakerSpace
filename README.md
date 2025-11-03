@@ -11,6 +11,9 @@ If you'd like, you can **[access the Zoom classroom directly now](https://us02we
 Class is held from 12:00 to 1:30 PM on Mondays, and will open promptly at 12:00:00 PM ET. **You should have received hard calendar invites for each class period**, according to the following schedule 👇
 
 - **November 3:** 🎧 LLM APIs & AI-Assisted Development
+
+| [Recording!](https://us02web.zoom.us/rec/share/9cXMOHbtujJmXM6ZZ9hDGBwP9SPBzPqK4mlH14gOSE8ZsYwMV6MgwxfDwV6aOE0F.WKWumY9-I3ZV-EXa) (h=@R43wL) | [Slides](https://www.canva.com/design/DAG3p9uenI0/KJC9xKEF2aWwiOkpoAanew/edit?utm_content=DAG3p9uenI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Repo](https://github.com/AI-Maker-Space/AIEO1/tree/main/Session_01_LLM_APIs_%26_AI-Assisted_Development) | [Optional HW Submission](https://forms.gle/W7mzyne3YVE3HV2y6) | [11/3 Feedback](https://forms.gle/rMm9xkeeMHQYD68RA) |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 - **November 10:** 🖼️ Front End UI Development & Deployment of LLM Applications
 - **November 17:** ⚡ Back End Web App Development & Deployment of LLM Applications
 - **November 24:** ↔️ End-to-End LLM Application Development with Coding Agents
