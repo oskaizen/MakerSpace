@@ -8,7 +8,7 @@
 ### [Quicklinks](https://github.com/AI-Maker-Space/AIE8/tree/main/00_AIM_Quicklinks)
 
 | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 |Session 1 Recording Coming Soon | Session 1 Slides Coming Soon | You are here! | Session 1 Feedback Form Coming Soon!
 
 <p align="center"><img src="Gitflow_visualization.png" alt="Gitflow Visualization" width="800px" /></p>
