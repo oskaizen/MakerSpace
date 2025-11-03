@@ -5,7 +5,6 @@
 
 <h1 align="center" id="heading">Session 1: LLM APIs & AI-Assisted Development</h1>
 
-### [Quicklinks](https://github.com/AI-Maker-Space/AIE8/tree/main/00_AIM_Quicklinks)
 
 | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
