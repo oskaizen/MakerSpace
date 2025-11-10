@@ -1,4 +1,4 @@
-# 🖼️ Session 2 Overview
+# 🖼️ Session 2 Overview: Frontend Development
 
 In this session, we’ll dig into how to vibe code front ends so that they are manageable and likely to succeed. **While *it is true that simply vibe coding a frontend in one shot is trivial, especially with an app like [v0](https://v0.app/),* there is more to building out and managing a frontend as features are added and the application evolves. For this, we need to learn how to build in fast iteration cycles to our integration, testing, and deployment of code changes.
 
